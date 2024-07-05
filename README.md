@@ -1,6 +1,6 @@
 # Amazon Delivery Dashboard
 
-![amazon](https://github.com/EMironczuk/Amazon_PowerBI/assets/111427081/bdb334b2-c619-42bb-913c-4dacebb8ecdb)
+![amazon](https://github.com/EMironczuk/Amazon_PowerBI/assets/111427081/db91becf-9234-40c1-b947-394286e57ae6)
 
 ## Problem Statement
 
